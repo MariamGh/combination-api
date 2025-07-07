@@ -31,15 +31,4 @@ npm run dev
 The server will start, usually at http://localhost:3000
 You can test the API endpoints using tools like Postman or curl, for example:
 curl http://localhost:3000/api/combinations
-
-If you make changes and want to push them to GitHub, use the following commands:
-git pull --rebase origin main
-git add .
-git commit -m "Your descriptive commit message"
-git push --set-upstream origin main
-
-If Git is not configured with your user identity, set your name and email like this:
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
-
 ```
