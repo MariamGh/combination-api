@@ -21,7 +21,7 @@ The API receives an input array representing counts of item types and a required
 - npm (comes with Node.js)
 
 ## Installation and Usage
-
+```
 git clone https://github.com/MariamGh/combination-api.git
 cd combination-api
 npm install
@@ -42,3 +42,4 @@ If Git is not configured with your user identity, set your name and email like t
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 
+```
