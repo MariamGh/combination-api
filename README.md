@@ -27,6 +27,5 @@ The API receives an input array representing counts of item types and a required
 
 1. Clone the repository:
    ```bash
-git clone https://github.com/MariamGh/combination-api.git
-cd combination-api
-
+   git clone https://github.com/MariamGh/combination-api.git
+   cd combination-api
