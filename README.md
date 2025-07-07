@@ -26,7 +26,7 @@ The API receives an input array representing counts of item types and a required
    ```bash
    git clone https://github.com/MariamGh/combination-api.git
    cd combination-api
-
+```
 npm install
 cp .env.example .env
 # Edit the .env file if needed, e.g., to change port or other settings
