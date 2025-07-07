@@ -20,7 +20,7 @@ The API receives an input array representing counts of item types and a required
 - MySQL Server
 - npm (comes with Node.js)
 
-### Installation
+# Installation and Usage
 
 git clone https://github.com/MariamGh/combination-api.git
 cd combination-api
